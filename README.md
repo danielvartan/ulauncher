@@ -9,6 +9,9 @@
 
 My [Ulauncher](https://ulauncher.io/) theme. 🚀
 
+> [!IMPORTANT]  
+> Use [v6.0.0](https://github.com/Ulauncher/Ulauncher/releases) or older.
+
 ## Inspirations
 
 - [Catppuccin Ulauncher theme](https://github.com/catppuccin/ulauncher)
@@ -23,11 +26,8 @@ My [Ulauncher](https://ulauncher.io/) theme. 🚀
 
 - [Color Converter](https://github.com/sergius02/ulauncher-colorconverter)
 - [Emoji](https://github.com/Ulauncher/ulauncher-emoji)
-- [Fuzzy Finder](https://github.com/hillaryychan/ulauncher-fzf)
 - [GitHub Search](https://github.com/gtoxlili/ulauncher-github-search)
-- [Grep Search](https://github.com/mariob88/ulauncher-grep-search)
 - [Translate](https://github.com/NastuzziSamy/ulauncher-translate)
-- [Youtube Search](https://github.com/lifeofcoding/ulauncher-youtube)
 
 ## Resources
 
