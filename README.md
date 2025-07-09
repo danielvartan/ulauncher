@@ -21,6 +21,8 @@ My [Ulauncher](https://ulauncher.io/) theme. 🚀
 
 > For Linux! 🐧
 
+You will need to change the symlink paths if you use a different username than `danielvartan`.
+
 ```bash
 git clone https://github.com/danielvartan/ulauncher $HOME/.config/ulauncher/user-themes/danielvartan
 ```
