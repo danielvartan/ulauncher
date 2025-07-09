@@ -1,0 +1,3 @@
+Ulauncher
+Nord
+Catppuccin

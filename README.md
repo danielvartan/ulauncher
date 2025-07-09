@@ -9,7 +9,7 @@
 
 My [Ulauncher](https://ulauncher.io/) theme. 🚀
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > Use [v6.0.0](https://github.com/Ulauncher/Ulauncher/releases) or older.
 
 ## Inspirations
@@ -19,8 +19,11 @@ My [Ulauncher](https://ulauncher.io/) theme. 🚀
 
 ## Installation
 
-1. Create a folder named `danielvartan` in `$HOME/.config/ulauncher/user-themes/`.
-2. Copy the contents of the `theme` folder into the new folder.
+> For Linux! 🐧
+
+```bash
+git clone https://github.com/danielvartan/ulauncher $HOME/.config/ulauncher/user-themes/danielvartan
+```
 
 ## Extensions
 
